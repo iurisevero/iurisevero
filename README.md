@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Iuri Severo's Github Stats](https://github-readme-stats.vercel.app/api?username=iurisevero&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&card_width=160)](https://githun.com/iurisevero) &nbsp;&nbsp;
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iurisevero&layout=compact&theme=github_dark)](https://githun.com/iurisevero)
