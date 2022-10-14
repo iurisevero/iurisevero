@@ -1,4 +1,4 @@
-baseURL: "http://example.com"
+baseURL: "https://iurisevero.github.io/iurisevero"
 languageCode: "en-us"
 title: "Iuri Severo"
 theme: hugo-profile
